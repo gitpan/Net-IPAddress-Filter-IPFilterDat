@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 # ABSTRACT: A fast IP address filter from ipfilter.dat
-our $VERSION = '20121119'; # VERSION
+our $VERSION = '20121119.02'; # VERSION
 
 use Scalar::Util ();
 
@@ -98,7 +98,7 @@ Net::IPAddress::Filter::IPFilterDat - A fast IP address filter from ipfilter.dat
 
 =head1 VERSION
 
-version 20121119
+version 20121119.02
 
 =head1 SYNOPSIS
 
@@ -211,7 +211,7 @@ IPFilter.dat Files and checking a given IP against this ipfilter.dat IP Range.
 See F<https://rt.cpan.org/Public/Dist/Display.html?Name=Net-IPAddress-Filter-IPFilterDat>
 to report and view bugs, or to request features.
 
-Alternatively, email F<bug-Net-IPAddress-Filter-Dat@rt.cpan.org>
+Alternatively, email F<bug-Net-IPAddress-Filter-IPFilterDat@rt.cpan.org>
 
 =head1 REPOSITORY
 

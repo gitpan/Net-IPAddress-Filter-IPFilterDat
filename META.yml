@@ -24,4 +24,4 @@ requires:
 resources:
   bugtracker: http://rt.cpan.org/NoAuth/Bugs.html?Dist=Net-IPAddress-Filter-IPFilterDat
   repository: https://github.com/d5ve/p5-Net-IPAddress-Filter-IPFilterDat.git
-version: 20121119
+version: 20121119.02
